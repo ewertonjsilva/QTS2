@@ -4,7 +4,7 @@ object frm_cad_compra: Tfrm_cad_compra
   Caption = 'Compras'
   ClientHeight = 242
   ClientWidth = 527
-  Color = clGradientActiveCaption
+  Color = clYellow
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
   Font.Height = -11
